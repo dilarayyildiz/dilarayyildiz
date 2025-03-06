@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩‍🎓 <br>I graduated from Yıldız Technical University with a degree in Mathematical Engineering.<br><br>📚 <br>I’m currently working on mastering new programming languages and expanding my knowledge in software development.<br>I'm currently learning .Net Core<br><br>🎯 <br>My career goal is to look back and feel deeply satisfied knowing that I have completed projects that have made a positive impact on millions of people, making their lives easier, while also adding value to the teams I’ve worked with through the work I’ve done.<br><br>🌱 <br>Writing clean and efficient code.<br>Personal growth and achieving goals.<br>Fitness and maintaining an active lifestyle.<br>Cats and wildlife.</p>
+<p align="left">👩‍🎓 I graduated from Yıldız Technical University with a degree in Mathematical Engineering.<br><br>📚 I’m currently working on mastering new programming languages and expanding my knowledge in software development.I'm currently learning .Net Core<br><br>🎯 My career goal is to look back and feel deeply satisfied knowing that I have completed projects that have made a positive impact on millions of people, making their lives easier, while also adding value to the teams I’ve worked with through the work I’ve done.<br><br>🌱 Writing clean and efficient code.Personal growth and achieving goals.Fitness and maintaining an active lifestyle.Cats and wildlife.</p>
 
 ###
 
